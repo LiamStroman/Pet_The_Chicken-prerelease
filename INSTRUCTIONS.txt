@@ -1,0 +1,31 @@
+TO RUN GAME
+
+1. extract PTC.zip to any location
+2. double click Pet_The_Chicken.exe and the game will run
+3. make sure that the .dll files remain in the same directory as the exe or it will not run
+4. it should run on any modern operating system
+
+
+
+
+
+
+
+In game controls:
+
+Left click : basically everything, interact with everything this way
+esc: opens game menu (beware the sound settings crash the game)
+
+WASD or arrow keys : navigate game locations, clicking the arrows in the bottom corner doesn't let you go up or down but this does where applicable - the coop and garden extend downward. 
+
+TAB: hold to speed up time - necessary for growing crops, this will be implimented more naturally in the future
+
+F2: quickly picks up all items in the coop
+F3: saves your game, then you enter cheat mode which saves to a different file, it gives you money and every item
+F4: unlocks the next area as if you bought a key
+F5: zoom in and out on the world
+F6: cancels NPC dialogue
+
+
+While farming:
+	Shift + left click : plants every seed selected in the bag, scatters them randomly
